@@ -29,14 +29,13 @@
   - Real-time visual feedback and event logging
   - Data persistence and REST API
 
-### 📽 Initial Proof of Concept
 
-[▶️ Watch Video Demo](https://drive.google.com/file/d/1rQm7J4klFf4MjSkYem8VUbxm7yhiFk_K/view?usp=sharing)
 
 ---
 
 ### 👨‍💻 Team (Group 6 – ENGR5720)
 
+- Chao Meng — 100997810
 - David Abiola — 100974509
 - Suhas Sunder — 100548159
-- Chao Meng — 100997810
+
